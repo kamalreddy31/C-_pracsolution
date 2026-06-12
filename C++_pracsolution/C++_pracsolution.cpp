@@ -39,7 +39,8 @@ int main()
 {
 	Hello obj;
 	Hello obj1(1,"im Kamal");
-
+	Hello obj2(2,"Vamsi");
 	obj.Display();
 	obj1.Display();
+	obj2.Display();
 }
