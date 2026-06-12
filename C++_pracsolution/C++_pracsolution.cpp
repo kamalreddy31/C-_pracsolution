@@ -40,7 +40,9 @@ int main()
 	Hello obj;
 	Hello obj1(1,"Only Kamal");
 	Hello obj2(2,"Vamsi");
+	Hello obj3(3,"Hi");
 	obj.Display();
 	obj1.Display();
 	obj2.Display();
+	obj3.Display();
 }
